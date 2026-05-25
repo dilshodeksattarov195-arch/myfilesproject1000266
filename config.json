@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrerify",
+        "uuid": 779380,
+        "checksum": "pyr6dl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
